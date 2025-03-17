@@ -1,1 +1,2 @@
 Mina saan GitHubi kasutada oma programmeerimisprojektide jaoks ja õppida versioonihaldust.
+GitHub Inc. asutati 2008. aastal Chris Wanstrathi, P. J. Hyetti, Tom Prestoni-Werneri ja Scott Chaconi poolt.
